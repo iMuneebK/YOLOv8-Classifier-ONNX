@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# YOLO/PyTorch
+models/
+runs/
+*.pt
+*.onnx
+
+# Data
+data/raw/
+data/processed/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# IDEs
+.idea/
+.vscode/
+*.swp
